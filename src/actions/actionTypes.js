@@ -1,0 +1,9 @@
+export const EDIT_TODO = 'EDIT_TODO';
+export const SET_VISIBILITY_FILTER = 'SET_VISIBILITY_FILTER';
+
+export const TOGGLE_TODO = 'TOGGLE_TODO';
+
+export const SHOW_SAVE_DIALOG = 'SHOW_SAVE_DIALOG';
+export const HIDE_SAVE_DIALOG = 'HIDE_SAVE_DIALOG';
+
+export const SHOW_BANNER = "SHOW_BANNER";
