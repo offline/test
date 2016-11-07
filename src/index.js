@@ -11,6 +11,7 @@ import thunk from 'redux-thunk';
 
 // comment
 // ok man!
+// third line
 
 let store = createStore(
     todoApp,
